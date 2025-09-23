@@ -29,7 +29,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aravindhan2612&label=Profile%20views&color=0e75b6&style=flat" alt="ChaitanyaLonarkar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aravindhan2612&label=Profile%20views&color=0e75b6&style=flat" alt="Aravindhan" /> </p>
 
 ## 🌐 Let's connect:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_ns_boy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/araaravindhan-baskaran-mobile-developer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aravindhan2612) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aravindhan2612@gmail.com) 
