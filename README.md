@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Aravindhan Baskaran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 # 💫 About Me:
-💻 I'm currently working as Mobile Developer at Infosys (Android, Kotlin and Jetpack)<br>👨‍💻 Passionate about building apps with Android, React-native, React, Kotlin, Java, Typescript <br>🧠 Constantly exploring new technologies<br>🛠️ Focused on design, develop, scalable, performance, and clean UI <br> Please check out my portfolio webiste - [Aravindhan Baskaran](https://aravindhan2612.github.io/ab-portfolio/) 
+💻 I'm currently working as Mobile Developer at Infosys (Android, Kotlin and Jetpack)<br>👨‍💻 Passionate about building apps with Android, Kotlin, Java, KMP, React Native, Typescript <br>🧠 Constantly exploring new technologies<br>🛠️ Focused on design, develop, scalable, performance, and clean UI <br> Please check out my portfolio webiste - [Aravindhan Baskaran](https://aravindhan2612.github.io/ab-portfolio/) 
 
 
 # Language and tools 💻:
